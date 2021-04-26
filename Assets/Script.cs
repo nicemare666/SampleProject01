@@ -8,7 +8,6 @@ public class Script : MonoBehaviour
     void Start()
     {
         //1234
-        //1111
     }
 
     // Update is called once per frame
